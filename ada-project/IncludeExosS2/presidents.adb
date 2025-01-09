@@ -75,7 +75,7 @@ package body Presidents is
       44 => (new String'("Barack Obama"), 2009, 2017, 'D', true),
       45 => (new String'("Donald Trump"), 2017, 2021, 'R', true),
       46 => (new String'("Joe Biden"), 2021, 2024, 'D', true),
-      47 => (new String'("Donald Trump"), 2025, 2028, 'R', true),
+      47 => (new String'("Donald Trump"), 2025, 2028, 'R', true)
      ) ;
    
      function Nb_Objects return Integer is
