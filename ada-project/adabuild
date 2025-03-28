@@ -7,9 +7,9 @@ current=`pwd`
 
 echo "===== Compilation de $1 =====" >&2
 echo >&2
-cp $1 /tmp/
+cp $1 /tmp/test.adb
 cd /tmp/
-gnatmake -I${current}/IncludeGada -I${current}/IncludeExosS1 -I${current}/IncludeExosS2 $1 -o /tmp/exe
+gnatmake -I${current}/IncludeGada -I${current}/IncludeExosS1 -I${current}/IncludeExosS2 test.adb -o /tmp/exe
 
 
 echo
