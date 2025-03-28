@@ -5,7 +5,7 @@
 Cliquez ensuite sur "RUN".
 Vérifiez que vous obtenez le bon résultat (tech.io vous dira toujours "success", même si le résultat est incorrect).
 
-@[Programme à compléter]({"stubs": ["mission1.groovy"], "command": "./adabuild mission1.groovy"})
+@[Programme à compléter]({"stubs": ["mission1.groovy"], "command": "./adabuild mission1.groovy mission1.adb"})
 
 
 ```ada
