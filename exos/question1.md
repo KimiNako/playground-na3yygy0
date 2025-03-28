@@ -17,7 +17,7 @@ procedure Hello_World is
 
 
 ```
-```vb.net runnable
+```C runnable
 with Text_IO;
 procedure Hello_World is
     begin
