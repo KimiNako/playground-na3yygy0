@@ -7,6 +7,16 @@ Vérifiez que vous obtenez le bon résultat (tech.io vous dira toujours "success
 
 @[Programme à compléter]({"stubs": ["mission1.ada"], "command": "./adabuild mission1.adb"})
 
+
+```ada
+with Text_IO;
+procedure Hello_World is
+    begin
+        Text_IO.Put_line("Hello World!");
+    end Hello_World;
+
+
+```
 ```vb.net runnable
 with Text_IO;
 procedure Hello_World is
