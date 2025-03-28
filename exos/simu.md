@@ -20,4 +20,3 @@ Examinez l'acteur simulation : [Simulation](http://wwwperso.insa-toulouse.fr/~le
  
  - Pour terminer, faites la [partie 2](http://wwwperso.insa-toulouse.fr/~lebotlan/Y/Ada-S1/tp-m1.html).
  
-@[Programme à compléter]({"stubs": ["mission1.adb"], "command": "./adabuild mission1.adb"})
